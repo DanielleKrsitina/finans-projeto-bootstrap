@@ -1,8 +1,6 @@
 💰 Finans
 
-Este projeto apresenta a landing page do Finans, uma plataforma pensada para simplificar o controle das suas finanças pessoais.  
-O desenvolvimento foi feito com HTML, CSS e Bootstrap, explorando recursos de responsividade, componentes prontos e personalização de estilos.  
-A proposta é aplicar conceitos de front-end na prática, criando uma página moderna e funcional que simula um produto real usado por milhões de pessoas.
+Este projeto apresenta a landing page do Finans, uma plataforma pensada para simplificar o controle de finanças pessoais. O desenvolvimento foi feito com HTML, CSS e Bootstrap, explorando recursos de responsividade, componentes prontos e personalização de estilos. A proposta é aplicar conceitos de front-end na prática, criando uma página moderna e funcional que simula um produto real usado por milhões de pessoas.
 
 
 🚀 Tecnologias utilizadas
